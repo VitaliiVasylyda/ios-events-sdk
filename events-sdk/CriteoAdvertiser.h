@@ -18,8 +18,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-
-@import AdSupport;
+#import <AdSupport/AdSupport.h>
 
 //! Project version number for Criteo Advertiser SDK
 FOUNDATION_EXPORT double CriteoAdvertiserVersionNumber;
